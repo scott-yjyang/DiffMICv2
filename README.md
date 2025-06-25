@@ -19,6 +19,16 @@
 
 ## Abstract
 
+Recently, Denoising Diffusion Models have achieved outstanding success in generative image modeling and attracted significant attention in the computer vision community. Although a substantial amount of diffusion-based research has focused on generative tasks, few studies apply diffusion models to medical diagnosis. 
+In this paper, we propose a diffusion-based network (named DiffMIC-v2) to address general medical image classification by eliminating unexpected noise and perturbations in image representations. 
+To achieve this goal, we first devise an improved dual-conditional guidance strategy that conditions each diffusion step with multiple granularities to enhance step-wise regional attention. 
+Furthermore, we design a novel Heterologous diffusion process that achieves efficient visual representation learning in the latent space. 
+We evaluate the effectiveness of our DiffMIC-v2 on four medical classification tasks with different image modalities, including thoracic diseases classification on chest X-ray, placental maturity grading on ultrasound images, skin lesion classification using dermatoscopic images, and diabetic retinopathy grading using fundus images. 
+Experimental results demonstrate that our DiffMIC-v2 outperforms state-of-the-art methods by a significant margin, which indicates the universality and effectiveness of the proposed model on multi-class and multi-label classification tasks. 
+DiffMIC-v2 can use fewer iterations than our previous DiffMIC to obtain accurate estimations, and also achieves greater runtime efficiency with superior results. 
+
+<img width="800" height="400" src="https://github.com/scott-yjyang/DiffMICv2/blob/main/assets/framework.png">
+
 
 ## Environment Setup
 ### Clone this repository and navigate to the root directory of the project.
