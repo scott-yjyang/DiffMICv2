@@ -13,8 +13,8 @@
 ## News
 - 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
 - 25-06-25. ❗❗Update on Code. Welcome to taste.😄
-- 25-05. The paper has been released on arXiv.
-
+- 25-06-15. The paper has been listed as IEEE TMI Popular Paper of May 2025.
+- 25-01-15. The paper has been accepted by IEEE Transactions on Medical Imaging.
 
 
 ## Abstract
@@ -67,7 +67,6 @@ Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for some deta
 
 
 
-
 ## Acknowledgement
 
 Code is developed based on [DiffMIC](https://github.com/scott-yjyang/DiffMIC), [EfficientSAM](https://github.com/yformer/EfficientSAM).
@@ -75,10 +74,11 @@ Code is developed based on [DiffMIC](https://github.com/scott-yjyang/DiffMIC), [
 ## Cite
 If you find it useful, please cite and star
 ~~~
-@article{yang2024vivim,
-  title={Vivim: a Video Vision Mamba for Medical Video Object Segmentation},
-  author={Yang, Yijun and Xing, Zhaohu and Zhu, Lei},
-  journal={arXiv preprint arXiv:2401.14168},
-  year={2024}
+@article{yang2025diffmic,
+  title={DiffMIC-v2: Medical Image Classification via Improved Diffusion Network},
+  author={Yang, Yijun and Fu, Huazhu and Aviles-Rivero, Angelica I and Xing, Zhaohu and Zhu, Lei},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2025},
+  publisher={IEEE}
 }
 ~~~
