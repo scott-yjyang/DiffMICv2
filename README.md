@@ -59,7 +59,7 @@ Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for some deta
 
 
 
-### TODO LIST
+## TODO LIST
 
 - [x] Release training scripts
 - [x] Release evaluation
@@ -70,6 +70,8 @@ Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for some deta
 ## Acknowledgement
 
 Code is developed based on [DiffMIC](https://github.com/scott-yjyang/DiffMIC), [EfficientSAM](https://github.com/yformer/EfficientSAM).
+
+This project is under CC BY-NC 2.0. All Copyright © [Yijun Yang](https://yijun-yang.github.io/)
 
 ## Cite
 If you find it useful, please cite and star
