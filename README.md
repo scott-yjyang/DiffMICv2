@@ -13,8 +13,8 @@
 ## News
 - 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
 - 25-06-25. ❗❗Update on Code. Welcome to taste.😄
-- 25-06-15. The paper has been listed as IEEE TMI Popular Paper of May 2025.
-- 25-01-15. The paper has been accepted by IEEE Transactions on Medical Imaging.
+- 25-06-15. The paper is listed as IEEE TMI Popular Paper of May 2025.
+- 25-01-15. The paper is accepted by IEEE Transactions on Medical Imaging.
 
 
 ## Abstract
