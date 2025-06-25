@@ -4,15 +4,15 @@
 <h3>[IEEE TMI] DiffMIC-v2: Medical Image Classification via Improved Diffusion Network</h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2506.02327"><img src="https://img.shields.io/badge/ArXiv-<2506.02327>-<COLOR>.svg" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2506.02327"><img src="https://img.shields.io/badge/Paper-<COLOR>.svg" alt="Paper"></a>
   <a href="https://github.com/scott-yjyang/DiffMICv2"><img src="https://img.shields.io/badge/huggingface-page-yellow.svg" alt="Dataset"></a>
  <p align="center">
   
 </div>
 
 ## News
-- 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
-- 24-03-11. ❗❗Update on Code. Welcome to taste.😄
+- 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next. Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for dataset details
+- 25-06-25. ❗❗Update on Code. Welcome to taste.😄
 - 25-05. The paper has been released on arXiv.
 
 
