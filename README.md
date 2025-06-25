@@ -27,7 +27,7 @@ We evaluate the effectiveness of our DiffMIC-v2 on four medical classification t
 Experimental results demonstrate that our DiffMIC-v2 outperforms state-of-the-art methods by a significant margin, which indicates the universality and effectiveness of the proposed model on multi-class and multi-label classification tasks. 
 DiffMIC-v2 can use fewer iterations than our previous DiffMIC to obtain accurate estimations, and also achieves greater runtime efficiency with superior results. 
 
-<img width="800" height="400" src="https://github.com/scott-yjyang/DiffMICv2/blob/main/assets/framework.png">
+<img width="800" height="600" src="https://github.com/scott-yjyang/DiffMICv2/blob/main/assets/framework.png">
 
 
 ## Environment Setup
