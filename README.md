@@ -4,8 +4,8 @@
 <h3>[IEEE TMI] DiffMIC-v2: Medical Image Classification via Improved Diffusion Network</h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2506.02327"><img src="https://img.shields.io/badge/Paper-<COLOR>.svg" alt="Paper"></a>
-  <a href="https://github.com/scott-yjyang/DiffMICv2"><img src="https://img.shields.io/badge/huggingface-page-yellow.svg" alt="Dataset"></a>
+  <a href="[https://arxiv.org/abs/2506.02327](https://ieeexplore.ieee.org/abstract/document/10843287)"><img src="https://img.shields.io/badge/Paper-<COLOR>.svg" alt="Paper"></a>
+  <a href="https://github.com/scott-yjyang/DiffMICv2"><img src="https://img.shields.io/badge/Dataset-yellow.svg" alt="Dataset"></a>
  <p align="center">
   
 </div>
