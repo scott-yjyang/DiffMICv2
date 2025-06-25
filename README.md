@@ -42,7 +42,9 @@ cd DiffMICv2
 ### Install basic package
 
 ```bash
-conda env create -f environment.yml
+conda create -n DiffMICv2 python=3.9
+conda activate DiffMICv2
+pip install -r requirements.txt
 ```
 
 
