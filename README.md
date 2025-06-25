@@ -55,6 +55,22 @@ git clone https://github.com/yformer/EfficientSAM.git
 
 ```
 
+## Run
+### Train
+```bash
+python diffuser_trainer.py
+
+(trainer.fit(model,ckpt_path=resume_checkpoint_path))
+```
+
+### Validate
+```bash
+python diffuser_trainer.py
+
+(trainer.validate(model,ckpt_path=val_path))
+```
+
+
 ## Datasets
 Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for some details.
 
