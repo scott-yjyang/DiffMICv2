@@ -11,7 +11,7 @@
 </div>
 
 ## News
-- 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next. Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for dataset details
+- 24-01-26. This project is still quickly updating 🌝. Check TODO list to see what will be released next.
 - 25-06-25. ❗❗Update on Code. Welcome to taste.😄
 - 25-05. The paper has been released on arXiv.
 
@@ -52,6 +52,9 @@ conda env create -f environment.yml
 git clone https://github.com/yformer/EfficientSAM.git
 
 ```
+
+## Datasets
+Please refer to [DiffMIC](https://github.com/scott-yjyang/DiffMIC) for some details.
 
 
 
